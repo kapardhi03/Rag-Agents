@@ -90,7 +90,7 @@ Here are a few examples of how you can interact with the RAG Agent:
   **Agent**: "The Eiffel Tower is an iconic landmark located in Paris, France. It was constructed from 1887 to 1889 as the entrance arch for the World's Fair. Designed by Gustave Eiffel, the tower stands at a height of 324 meters (1,063 feet) and was the tallest man-made structure in the world until 1930. Initially met with criticism, the Eiffel Tower has become a global cultural icon of France and a popular tourist destination, attracting millions of visitors each year."
 
 
-![Sample chat](gradio.png)
+![Sample chat](/Users/kapardhikannekanti/RAG-Agent/Rag-Agents/gradio.png)
 
 
 Feel free to explore more examples and test the agent's capabilities based on your specific knowledge base and domain.
