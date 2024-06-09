@@ -1,0 +1,12 @@
+requests
+langchain
+langchain_nvidia_ai_endpoints
+langchain_core
+langchain_community
+typing_extensions>=4.8.0
+gradio
+pydantic>=2.0
+fastapi
+imageio
+uvicorn
+nest_asyncio
