@@ -99,9 +99,6 @@ Feel free to explore more examples and test the agent's capabilities based on yo
 
 Contributions to the RAG Agent project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing code style and provide detailed information about your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 ```
 
 This README provides a comprehensive overview of your RAG Agent project, including its features, installation instructions, usage guidelines, configuration details, and examples. It also includes sections for contributing and licensing information. You can copy the contents of this README and save it as `README.md` in your project repository.
