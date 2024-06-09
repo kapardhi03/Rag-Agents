@@ -1,6 +1,4 @@
-Here's an updated and improved README for your project:
 
-```markdown
 # RAG Agent with LangChain and NVIDIA ChatGPT
 
 This repository contains an implementation of a RAG (Retrieval-Augmented Generation) Agent using LangChain and NVIDIA ChatGPT. The project aims to create a conversational AI system that can retrieve relevant information from a knowledge base and generate human-like responses.
@@ -60,9 +58,9 @@ Before running the RAG Agent, ensure that you have set up the necessary environm
 
 To start the RAG Agent, run the following command:
 
-```shell
-python server_app.py
-```
+   ```shell
+   python server_app.py
+   ```
 
 This will launch the server and make the agent available for interaction.
 
@@ -78,18 +76,18 @@ Once the server is running, you can interact with the RAG Agent using the provid
 
 The RAG Agent requires certain configurations to function properly. Make sure to set the following:
 
-- NVIDIA API Key: Set the `NVIDIA_API_KEY` environment variable with your NVIDIA API key.
-- Model Configuration: Update the `ChatNVIDIA` initialization in the `server_app.py` file to specify the desired model and any other necessary parameters.
+- **NVIDIA API Key**: Set the `NVIDIA_API_KEY` environment variable with your NVIDIA API key.
+- **Model Configuration**: Update the `ChatNVIDIA` initialization in the `server_app.py` file to specify the desired model and any other necessary parameters.
 
 ## Examples
 
 Here are a few examples of how you can interact with the RAG Agent:
 
-- User: "What is the capital of France?"
-  Agent: "The capital of France is Paris."
+- **User**: "What is the capital of France?"
+  **Agent**: "The capital of France is Paris."
 
-- User: "Can you tell me about the history of the Eiffel Tower?"
-  Agent: "The Eiffel Tower is an iconic landmark located in Paris, France. It was constructed from 1887 to 1889 as the entrance arch for the World's Fair. Designed by Gustave Eiffel, the tower stands at a height of 324 meters (1,063 feet) and was the tallest man-made structure in the world until 1930. Initially met with criticism, the Eiffel Tower has become a global cultural icon of France and a popular tourist destination, attracting millions of visitors each year."
+- **User**: "Can you tell me about the history of the Eiffel Tower?"
+  **Agent**: "The Eiffel Tower is an iconic landmark located in Paris, France. It was constructed from 1887 to 1889 as the entrance arch for the World's Fair. Designed by Gustave Eiffel, the tower stands at a height of 324 meters (1,063 feet) and was the tallest man-made structure in the world until 1930. Initially met with criticism, the Eiffel Tower has become a global cultural icon of France and a popular tourist destination, attracting millions of visitors each year."
 
 Feel free to explore more examples and test the agent's capabilities based on your specific knowledge base and domain.
 
@@ -102,6 +100,4 @@ Contributions to the RAG Agent project are welcome! If you find any issues or ha
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 ```
 
-This README provides a comprehensive overview of your RAG Agent project, including its features, installation instructions, usage guidelines, configuration details, and examples. It also includes sections for contributing and licensing information.
-
-You can copy the contents of this README and save it as `README.md` in your project repository.
+This README provides a comprehensive overview of your RAG Agent project, including its features, installation instructions, usage guidelines, configuration details, and examples. It also includes sections for contributing and licensing information. You can copy the contents of this README and save it as `README.md` in your project repository.
