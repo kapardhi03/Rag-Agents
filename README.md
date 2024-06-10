@@ -1,3 +1,6 @@
+Here is the updated README with the FastAPI usage included:
+
+---
 
 # RAG Agent with LangChain and NVIDIA ChatGPT
 
@@ -31,6 +34,7 @@ The RAG Agent combines the power of retrieval and generation to provide accurate
 - Interactive chat interface powered by Gradio
 - Support for streaming responses for a more natural conversation flow
 - Extensible architecture for easy customization and enhancement
+- Built with FastAPI for robust and high-performance server-side application
 
 ## Installation
 
@@ -89,9 +93,7 @@ Here are a few examples of how you can interact with the RAG Agent:
 - **User**: "Can you tell me about the history of the Eiffel Tower?"
   **Agent**: "The Eiffel Tower is an iconic landmark located in Paris, France. It was constructed from 1887 to 1889 as the entrance arch for the World's Fair. Designed by Gustave Eiffel, the tower stands at a height of 324 meters (1,063 feet) and was the tallest man-made structure in the world until 1930. Initially met with criticism, the Eiffel Tower has become a global cultural icon of France and a popular tourist destination, attracting millions of visitors each year."
 
-
 ![Sample chat](chat.png)
-
 
 Feel free to explore more examples and test the agent's capabilities based on your specific knowledge base and domain.
 
@@ -99,6 +101,3 @@ Feel free to explore more examples and test the agent's capabilities based on yo
 
 Contributions to the RAG Agent project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing code style and provide detailed information about your changes.
 
-```
-
-This README provides a comprehensive overview of your RAG Agent project, including its features, installation instructions, usage guidelines, configuration details, and examples. It also includes sections for contributing and licensing information. You can copy the contents of this README and save it as `README.md` in your project repository.
